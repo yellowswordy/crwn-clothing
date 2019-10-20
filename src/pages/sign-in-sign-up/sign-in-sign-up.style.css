@@ -1,0 +1,10 @@
+.sign-in {
+  width: 40vh;
+  display: flex;
+  flex-direction: column;
+}
+.sign-in .title {
+  margin: 10px 0;
+}
+
+/*# sourceMappingURL=sign-in-sign-up.style.css.map */
