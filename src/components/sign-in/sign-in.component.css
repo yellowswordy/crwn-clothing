@@ -11,11 +11,4 @@
   justify-content: space-between;
 }
 
-.sign-in-and-sign-up {
-  width: 850px;
-  display: flex;
-  justify-content: space-between;
-  margin: 30px auto;
-}
-
-/*# sourceMappingURL=sign-in-sign-up.style.css.map */
+/*# sourceMappingURL=sign-in.component.css.map */
